@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/about.ico</file>
+        <file>icon/calculator.ico</file>
+        <file>icon/close.ico</file>
+        <file>icon/icon.ico</file>
+        <file>images/CC.jpg</file>
+        <file>images/DRJ.jpg</file>
+        <file>images/KFZ.jpg</file>
+        <file>images/LSM.jpg</file>
+        <file>images/QH.jpg</file>
+        <file>images/WXB.jpg</file>
+        <file>images/XMQ.jpg</file>
+        <file>images/YF.jpg</file>
+        <file>images/YJX.jpg</file>
+    </qresource>
+</RCC>
