@@ -38,9 +38,9 @@
 int main(int _Argc, char* *_Argv)
     {
     QApplication _App(_Argc, _Argv);
-
-    _Calculator _Dialog;
-    _Dialog.show();
+	
+    //_Calculator _Dialog;
+    //_Dialog.show();
 #
     return _App.exec();
     }
